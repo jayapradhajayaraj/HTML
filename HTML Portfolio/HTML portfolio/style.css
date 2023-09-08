@@ -1,0 +1,57 @@
+ body{
+    margin:30px;
+    
+ }
+
+ h1{
+    Color:blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight:200px solid bold;
+    display: inline-block;
+    text-align: left;
+}
+#photo{
+    width:150px;
+    border:1px solid black;
+}
+.part1 p{
+    padding: 10px;
+    margin:0px;
+    position:absolute;
+    top:10px;
+    right:200px;
+    text-align: right;
+    }
+hr{
+    font-weight: 100px solid bold;
+}
+
+h2{
+    color:blue;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+table{
+    border:5px solid black;
+    padding:50px;
+   
+}
+th[scope="column"]{
+    border:2px solid black;
+    padding: 15px;
+    margin-bottom: 5px;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+td,th[scope="row"]{
+    border:2px solid black;
+    font-style: normal;
+    font-weight: lighter;
+    padding: 15px;
+    margin-bottom: 5px;
+    text-align: left;
+
+}
+
+
